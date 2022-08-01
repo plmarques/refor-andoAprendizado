@@ -9,11 +9,8 @@
 9  - git branch __ = adicionar nova branch
 10 - git branch = saber quantas branchs tem
 11 - git checkout __ = mudar a branch utilizavel 
-<<<<<<< HEAD
-=======
 12 - git push --set-upstream origin staging = atualizar branch nova
 
->>>>>>> staging
 
 
 Ciclo de Atualização
