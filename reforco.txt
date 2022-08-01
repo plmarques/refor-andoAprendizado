@@ -9,9 +9,12 @@
 9  - git branch __ = adicionar nova branch
 10 - git branch = saber quantas branchs tem
 11 - git checkout __ = mudar a branch utilizavel 
+12 - git push --set-upstream origin staging = atualizar branch nova
+
 
 
 Ciclo de Atualização
 1 - git add . = adicionar todos arquivos e mudanças
 2 - git commit -m "nome da mudança" = nomear versão do codigo
 3 - git push = subir arquivo para o servidor
+4 - git push --set-upstream origin staging = atualizar branch nova
