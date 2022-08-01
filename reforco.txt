@@ -10,7 +10,7 @@
 10 - git branch = saber quantas branchs tem
 11 - git checkout __ = mudar a branch utilizavel 
 12 - git push --set-upstream origin staging = atualizar branch nova
-
+13 - git merge = unir branchs para a master
 
 
 Ciclo de Atualização
