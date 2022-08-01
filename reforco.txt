@@ -13,6 +13,7 @@ Sequencia basica pra GIT
 12 - git push --set-upstream origin staging = atualizar branch nova
 13 - git pull = puxar ultima versão do codigo do serv pra maquina
 14 - git merge __ = unir branchs para a master
+15 - git checkout -b __ = criar e ja mudar para branch nova
 
 
 
