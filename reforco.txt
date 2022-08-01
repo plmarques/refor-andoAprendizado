@@ -11,13 +11,9 @@ Sequencia basica pra GIT
 10 - git branch = saber quantas branchs tem
 11 - git checkout __ = mudar a branch utilizavel 
 12 - git push --set-upstream origin staging = atualizar branch nova
-<<<<<<< HEAD
 13 - git merge __ = unir branchs para a master
-=======
 13 - git pull = puxar ultima versão do codigo do serv pra maquina
 14 - git merge __ = unir branchs para a master
-
->>>>>>> staging
 
 
 Ciclo de Atualização
