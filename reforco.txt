@@ -1,4 +1,9 @@
 1 - git bash na pasta = abrir prompt git
 2 - git init = para inciar codigo
 3 - git status = saber se o codigo está atualizado
-4 -
+4 - git add "__.txt" = adicionar arquivo
+5 - git add . = adicionar todos os arquivos
+6 - git commit -m = adicionar versoes ou mudanças no codigo (boas praticas tbm)
+7 - git remote add origin link do repositorio = definir repositorio inicial
+8 - git push = subir arquivos do PC para servidor hub
+9 - 
