@@ -17,6 +17,7 @@ Sequencia basica pra GIT
 
 
 Ciclo de Atualização
+0 - git pull = puxar ultima versão do serv pra maquina
 1 - git add . = adicionar todos arquivos e mudanças
 2 - git commit -m "nome da mudança" = nomear versão do codigo
 3 - git push = subir arquivo para o servidor
