@@ -23,3 +23,4 @@ Ciclo de Atualização
 3 - git push = subir arquivo para o servidor
 4 - git push --set-upstream origin staging = atualizar branch nova
 5 - git merge = unir branchs para master
+6 - git push = subir arquivo para o servidor
