@@ -7,14 +7,13 @@ Sequencia basica pra GIT
 6  - git commit -m = adicionar versoes ou mudanças no codigo (boas praticas tbm)
 7  - git remote add origin link do repositorio = definir repositorio inicial
 8  - git push = subir arquivos do PC para servidor hub
-9  - git branch __ = adicionar nova branch
-10 - git branch = saber quantas branchs tem
-11 - git checkout __ = mudar a branch utilizavel 
-12 - git push --set-upstream origin staging = atualizar branch nova
-13 - git pull = puxar ultima versão do codigo do serv pra maquina
+9  - git pull = puxar ultima versão do codigo do serv pra maquina
+10 - git branch __ = adicionar nova branch
+11 - git branch = saber quantas branchs tem
+12 - git checkout __ = mudar a branch utilizavel 
+13 - git push --set-upstream origin staging = atualizar branch nova
 14 - git merge __ = unir branchs para a master
-15 - git checkout -b __ = criar e ja mudar para branch nova
-
+15 - git merge __ = unir branchs para a master
 
 
 Ciclo de Atualização
@@ -24,3 +23,4 @@ Ciclo de Atualização
 3 - git push = subir arquivo para o servidor
 4 - git push --set-upstream origin staging = atualizar branch nova
 5 - git merge = unir branchs para master
+6 - git push = subir arquivo para o servidor
