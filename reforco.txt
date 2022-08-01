@@ -1,0 +1,4 @@
+1 - git bash na pasta = abrir prompt git
+2 - git init = para inciar codigo
+3 - git status = saber se o codigo está atualizado
+4 -
