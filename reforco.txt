@@ -15,6 +15,7 @@ Sequencia basica pra GIT
 14 - git merge __ = unir branchs para a master
 15 - git merge __ = unir branchs para a master
 16 - git pull request = requisitar aprovação de outro programador
+17 - touch .gitignore = não enviar arquivos para o controle de versão
 
 Ciclo de Atualização
 0 - git pull = puxar ultima versão do serv pra maquina
