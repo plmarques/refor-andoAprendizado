@@ -1,3 +1,4 @@
+Sequencia basica pra GIT
 1  - git bash na pasta = abrir prompt git
 2  - git init = para inciar codigo
 3  - git status = saber se o codigo está atualizado
@@ -10,7 +11,7 @@
 10 - git branch = saber quantas branchs tem
 11 - git checkout __ = mudar a branch utilizavel 
 12 - git push --set-upstream origin staging = atualizar branch nova
-13 - git merge = unir branchs para a master
+13 - git merge __ = unir branchs para a master
 
 
 Ciclo de Atualização
@@ -18,3 +19,4 @@ Ciclo de Atualização
 2 - git commit -m "nome da mudança" = nomear versão do codigo
 3 - git push = subir arquivo para o servidor
 4 - git push --set-upstream origin staging = atualizar branch nova
+5 - git merge = unir branchs para master
